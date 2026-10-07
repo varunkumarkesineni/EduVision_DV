@@ -10,7 +10,6 @@
 ---
 
 ## Table of Contents
-
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Architecture](#architecture)
